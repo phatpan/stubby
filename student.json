@@ -5,7 +5,7 @@
         "lastName": "ananpreechakun",
         "eachYear": [
             {
-                "year":"2559"
+                "year":"2559",
                 "eachSemester" : [
                     {
                         "semester" : 1,
@@ -25,7 +25,7 @@
         "lastName": "janjuang",
         "eachYear": [
             {
-                "year":"2559"
+                "year":"2559",
                 "eachSemester" : [
                     {
                         "semester" : 1,
