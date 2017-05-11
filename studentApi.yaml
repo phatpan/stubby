@@ -1,0 +1,9 @@
+-  request:
+      method: GET
+      url: /api/student
+
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: student.json
